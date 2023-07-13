@@ -1,0 +1,15 @@
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\bin\Debug\net6.0\SpeedEat.Infra.deps.json
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\bin\Debug\net6.0\SpeedEat.Infra.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\bin\Debug\net6.0\SpeedEat.Infra.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\bin\Debug\net6.0\SpeedEat.Dominio.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\bin\Debug\net6.0\SpeedEat.Dominio.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.csproj.AssemblyReference.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.AssemblyInfoInputs.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.AssemblyInfo.cs
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.csproj.CopyComplete
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\refint\SpeedEat.Infra.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\SpeedEat.Infra.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.Infra\obj\Debug\net6.0\ref\SpeedEat.Infra.dll

@@ -1,0 +1,15 @@
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\bin\Debug\net6.0\SpeedEat.DataTransfer.deps.json
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\bin\Debug\net6.0\SpeedEat.DataTransfer.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\bin\Debug\net6.0\SpeedEat.DataTransfer.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\bin\Debug\net6.0\SpeedEat.Dominio.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\bin\Debug\net6.0\SpeedEat.Dominio.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.csproj.AssemblyReference.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.AssemblyInfoInputs.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.AssemblyInfo.cs
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.csproj.CopyComplete
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\refint\SpeedEat.DataTransfer.dll
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\SpeedEat.DataTransfer.pdb
+C:\Dev\fiap\speedEat2\SpeedEat\SpeedEat.DataTransfer\obj\Debug\net6.0\ref\SpeedEat.DataTransfer.dll

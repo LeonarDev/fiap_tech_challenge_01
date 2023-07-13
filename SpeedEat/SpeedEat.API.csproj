@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>be1126da-4bc2-4c02-8d1b-cdd527dce2fe</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
+    <PackageReference Include="Serilog" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <ProjectReference Include="..\SpeedEat.Aplicacao\SpeedEat.Aplicacao.csproj" />
+	  <ProjectReference Include="..\SpeedEat.DataTransfer\SpeedEat.DataTransfer.csproj" />
+	  <ProjectReference Include="..\SpeedEat.Ioc\SpeedEat.Ioc.csproj" />
+  </ItemGroup>
+
+</Project>

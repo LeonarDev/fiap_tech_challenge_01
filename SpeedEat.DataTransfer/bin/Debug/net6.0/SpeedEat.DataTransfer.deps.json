@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SpeedEat.DataTransfer/1.0.0": {
+        "dependencies": {
+          "SpeedEat.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SpeedEat.DataTransfer.dll": {}
+        }
+      },
+      "SpeedEat.Dominio/1.0.0": {
+        "runtime": {
+          "SpeedEat.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpeedEat.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpeedEat.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

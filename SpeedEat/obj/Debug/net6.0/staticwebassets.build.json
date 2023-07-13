@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "il3v7bTvBiTtWu3gEMpVZVEJKFyElITPk8DGz998wgk=",
+  "Source": "SpeedEat.API",
+  "BasePath": "_content/SpeedEat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

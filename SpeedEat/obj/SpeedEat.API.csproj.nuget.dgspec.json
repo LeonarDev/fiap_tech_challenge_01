@@ -1,0 +1,448 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat\\SpeedEat.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj",
+        "projectName": "SpeedEat.Aplicacao",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj",
+        "projectName": "SpeedEat.DataTransfer",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj",
+        "projectName": "SpeedEat.Dominio",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj",
+        "projectName": "SpeedEat.Infra",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\SpeedEat.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\SpeedEat.Ioc.csproj",
+        "projectName": "SpeedEat.Ioc",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\SpeedEat.Ioc.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Dominio\\SpeedEat.Dominio.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Infra\\SpeedEat.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.4.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.100, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat\\SpeedEat.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat\\SpeedEat.API.csproj",
+        "projectName": "SpeedEat.API",
+        "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat\\SpeedEat.API.csproj",
+        "packagesPath": "C:\\Users\\majev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\majev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Aplicacao\\SpeedEat.Aplicacao.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.DataTransfer\\SpeedEat.DataTransfer.csproj"
+              },
+              "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\SpeedEat.Ioc.csproj": {
+                "projectPath": "C:\\Dev\\fiap\\speedEat2\\SpeedEat\\SpeedEat.Ioc\\SpeedEat.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
